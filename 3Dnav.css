@@ -328,7 +328,7 @@ body{
     .link p{
         color: #fff;
         position: absolute;
-        bottom: 130px;
+        bottom: 150px;
         right:  -70px;
         width: 130%;
         height: 30px;
@@ -421,7 +421,7 @@ body{
        .link p{
         color: #fff;
         position: absolute;
-        bottom: 100px;
+        bottom: 150px;
         right:  -10px;
         width: 130%;
         height: 30px;
